@@ -1,3 +1,4 @@
-Mosh react beginner : https://www.youtube.com/watch?v=Ke90Tje7VS0
-react bootstrap     : https://react-bootstrap.github.io/getting-started/introduction
+Mosh react beginner : https://www.youtube.com/watch?v=Ke90Tje7VS0 <br />
+react bootstrap     : https://react-bootstrap.github.io/getting-started/introduction <br />
+Building Controlled Forms Using Functional Components in React : https://medium.com/swlh/building-controlled-forms-using-functional-components-in-react-965d033a89bd <br/>
 
