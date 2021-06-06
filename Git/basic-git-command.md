@@ -17,5 +17,5 @@
 `git commit --amend`
 
 #### 7. Undo all uncommitted code.
-`git reset --hard HEAD`  --> will undo all uncommitted code \n
+`git reset --hard HEAD`  --> will undo all uncommitted code                                                                                                                             
 `git checkout [some_dir|file.txt]` --> will undo only the mentioned dir or file
